@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'si-le';
+  src: url('./SourceHanSerifCN-ExtraLight.ttf');
+}
+@font-face {
+  font-family: 'si-l';
+  src: url('./SourceHanSansCN-Light.ttf');
+}
+@font-face {
+  font-family: 'si-n';
+  src: url('./SourceHanSansCN-Normal.ttf');
+}
